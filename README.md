@@ -13,7 +13,7 @@ Using the latest and greatest Node: `8.8.0`
 ```
 {
 	//...
-	"devDependencies": {
+	"dependencies": {
 		"webpack_pack": "git+https://github.com/Thoughtscript/express_pack.git"
 	},
 	/...
