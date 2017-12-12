@@ -1,0 +1,21 @@
+{
+  "name": "express_pack",
+  "version": "1.0.0",
+  "engines": {
+    "node": "=8.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thoughtscript/express_pack"
+  },
+  "author": "Adam I. Gerard",
+  "dependencies": {
+    "body-parser": "=1.18.2",
+    "cookie-parser": "=1.4.3",
+    "ejs": "=2.5.7",
+    "express": "=4.16.2",
+    "https": "=1.0.0",
+    "morgan": "=1.9.0",
+    "ws": "=3.3.0"
+  }
+}
